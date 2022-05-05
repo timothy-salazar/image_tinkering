@@ -1,0 +1,9 @@
+name: jupy
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - notebook
+  - ipywidgets
+  - numpy
+  - pillow
