@@ -2,8 +2,13 @@ name: jupy
 channels:
   - conda-forge
 dependencies:
-  - jupyter
-  - notebook
-  - ipywidgets
-  - numpy
-  - pillow
+    - numpy
+    - pandas
+    - jupyter
+    - ipython
+    - pillow
+    - tqdm
+    - scipy
+    - scikit-learn
+    - scikit-image
+    - tqdm
